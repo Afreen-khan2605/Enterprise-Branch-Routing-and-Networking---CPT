@@ -125,7 +125,8 @@ A fictional enterprise expanding its branch operations across a 3-floor building
 
 ## 📌 Project (Image)
 
-(https://github.com/Afreen-khan2605/Enterprise_Branch_Routing_and_Networking---Cisco-Packet-Tracer/blob/b52370c16107a2da9c50fdf7703fbaf5d2750a00/Enterprise%20branch%20Routing%20and%20Networking%20image.png)
+![Enterprise Branch Network Map](https://github.com/Afreen-khan2605/Enterprise_Branch_Routing_and_Networking---Cisco-Packet-Tracer/blob/b52370c16107a2da9c50fdf7703fbaf5d2750a00/Enterprise%20branch%20Routing%20and%20Networking%20image.png)
+
 
 ---
 
